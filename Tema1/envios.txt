@@ -1,0 +1,10 @@
+E|1001|Juan Perez|12000|5
+U|1002|Ana Gomez|8000|CABA
+E|1003|Luis Diaz|15000|12
+U|1004|Marina Lopez|9500|La Plata
+E|1005|Carlos Ruiz|10000|3
+U|1006|Sofia Diaz|11000|Rosario
+E|1007|Pedro Gil|18000|7
+U|1008|Lucia Castro|9000|CABA
+E|1009|Martin Suarez|13500|10
+U|1010|Carla Fernandez|12500|Cordoba
